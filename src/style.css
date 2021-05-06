@@ -1,0 +1,23 @@
+.todo{
+   display:inline;
+   margin-left: 150px;
+   box-sizing-top: 3px 3px 3px 3px;
+   box-shadow-right:3px 3px 3px 3px;
+   box-shadow-left: 3px 3px 3px 3px;
+   box-shadow-bottom:3px 3px 3px 3px;
+
+   
+   
+
+}
+input[type=checkbox]{
+  width:50px;
+  padding:40px;
+}
+p{
+ margin-left: 150px;
+ 
+}
+hr{
+  width:50%;
+}
